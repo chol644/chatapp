@@ -16,5 +16,7 @@
   },
   "devDependencies": {},
   "description": "",
-  "engines": {"node": "16.k"}
+  "engines": {
+    "node": "12.k"
+  }
 }
