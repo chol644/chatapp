@@ -17,6 +17,6 @@
   "devDependencies": {},
   "description": "",
   "engines": {
-    "node": "12.k"
+    "node": "12.x"
   }
 }
